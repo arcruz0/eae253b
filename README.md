@@ -1,5 +1,7 @@
 # Economía y Ciencia de Datos (EAE253B)
 
+> Sobre este fork: versión final, semestre 2018(2). [Link al proyecto en su estado actual](https://github.com/calvarad/eae253b). 
+
 Este repositorio contiene material de curso EAE253B "Economía y Ciencia de Datos", de la Escuela de Economía de la Universidad Católica de Chile, II semestre de 2018.
 
 Profesor: Carlos Alvarado  
